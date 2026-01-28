@@ -18,5 +18,7 @@
 _I am supposed to edit this, so here we go._
 
 
-- [x] Yeah that works,
-- [] but this doesn't.
+-[x] Yeah that works,
+-[] but this doesn't.
+
+Maybe like _this?_
